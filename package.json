@@ -1,0 +1,14 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "Execute e2e tests",
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nightwatch": "^0.2.9"
+  },
+  "author": "",
+  "license": "ISC"
+}
